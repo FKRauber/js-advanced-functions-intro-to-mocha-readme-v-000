@@ -15,5 +15,5 @@ function favoriteIceCream(iceCream) {
 }
 
 function shouting(phrase) {
-  return phrase.upcase;
+  return phrase.toUpperCase();
 }
